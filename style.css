@@ -2,10 +2,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 table#game td {
-    background-color: beige;
+    background-color: rgb(236, 0, 0);
     height: 200px;
     width: 200px;
-    border: solid saddlebrown 5px;
+    border: solid rgb(0, 0, 0) 5px;
     border-radius: 10px;
     text-align: center;
     font-weight: bold;
@@ -14,8 +14,8 @@ table#game td {
 
 button#restart {
     padding: 8px;
-    background-color: lightslategray;
+    background-color: rgb(0, 93, 187);
     font-size: 20pt;
-    color: white;
-    border-radius: 15px;
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
 }
